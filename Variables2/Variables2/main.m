@@ -15,11 +15,11 @@ int main(int argc, const char * argv[]) {
 
         
         NSString *person0 = @"Name     |";
-        NSString *person1 = @"Jon      |";
-        NSString *person2 = @"Cersei   |";
-        NSString *person3 = @"Daenerys |";
-        NSString *person4 = @"Theon    |";
-        NSString *person5 = @"Ned      |";
+        NSString *person1 = @"Christian|";
+        NSString *person2 = @"Changed  |";
+        NSString *person3 = @"your     |";
+        NSString *person4 = @"shizz    |";
+        NSString *person5 = @"awesomely|";
         
         NSString *house0 = @"House    |";
         NSString *house1 = @"Snow     |";

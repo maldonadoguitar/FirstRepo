@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69EF5B29-62CA-4C09-978D-14EAFC508DDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Variables2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</key>
+		<string>https://github.com/maldonadoguitar/FirstRepo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Variables2/Variables2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maldonadoguitar/FirstRepo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0B187A2DD157DB11B90DA069E72546A9A7E6B06</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FirstRepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
